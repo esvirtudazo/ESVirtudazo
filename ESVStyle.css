@@ -1,8 +1,7 @@
-body{
-  img src=("ESVPhoto.jpg);
-  background-color: cyan;
+body {
+  background-color: red;
 }
 
-h1{
+h1 {
   color: darkblue;
 }
